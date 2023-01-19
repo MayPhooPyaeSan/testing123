@@ -1,0 +1,14 @@
+.container {
+    display: block;
+    flex-direction: row;
+    background-color: aqua;
+}
+
+.form-control {
+    margin-top: 20px;
+    max-width: 500px;
+}
+
+.orderList {
+    list-style: decimal inside;
+}
